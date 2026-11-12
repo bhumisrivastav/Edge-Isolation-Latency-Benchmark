@@ -1,0 +1,6 @@
+Metric,Phase_I_Native_Baseline,Phase_II_Isolated_Boundary,Delta_Percentage
+Samples_Gathered,30,30,0.00%
+Workload_Iterations,100000,100000,0.00%
+Mean_Execution_Latency_ms,1463.99245,950.32076,-35.09%
+Acceleration_Factor_Alpha,1.000,1.540,+54.05%
+CPU_Frequency_State,Dynamic_Scaling,2.40GHz_Turbo_Lock,N/A
